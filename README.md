@@ -2,7 +2,7 @@
 
 A payment integration system using Paystack for processing payments.
 
-**Production URL:** [https://chisnepayment.chisne.co.ke/](https://chisnepayment.chisne.co.ke/)
+**Production URL:** [http://localhost:8000/](http://localhost:8000/)
 
 ## Features
 
