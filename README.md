@@ -1,4 +1,4 @@
-# CISNE SOFTWARES - Payment System
+# THE TWO BROTHERS SOFTWARES - Payment System
 
 A payment integration system using Paystack for processing payments.
 
