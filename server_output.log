@@ -1,0 +1,16 @@
+[Wed Jul  2 11:01:11 2025] PHP 8.4.5 Development Server (http://localhost:8000) started
+[Wed Jul  2 11:01:13 2025] 127.0.0.1:44316 Accepted
+[Wed Jul  2 11:01:13 2025] 127.0.0.1:44316 [200]: HEAD /index.php
+[Wed Jul  2 11:01:13 2025] 127.0.0.1:44316 Closing
+[Wed Jul  2 11:01:13 2025] 127.0.0.1:44318 Accepted
+[Wed Jul  2 11:01:13 2025] 127.0.0.1:44318 [302]: HEAD /verify_transaction.php
+[Wed Jul  2 11:01:13 2025] 127.0.0.1:44318 Closing
+[Wed Jul  2 11:01:13 2025] 127.0.0.1:44334 Accepted
+[Wed Jul  2 11:01:13 2025] 127.0.0.1:44334 [200]: HEAD /failure.php
+[Wed Jul  2 11:01:13 2025] 127.0.0.1:44334 Closing
+[Wed Jul  2 11:01:13 2025] 127.0.0.1:44340 Accepted
+[Wed Jul  2 11:01:13 2025] 127.0.0.1:44340 [200]: HEAD /success.php
+[Wed Jul  2 11:01:13 2025] 127.0.0.1:44340 Closing
+[Wed Jul  2 11:01:13 2025] 127.0.0.1:44352 Accepted
+[Wed Jul  2 11:01:13 2025] 127.0.0.1:44352 [200]: HEAD /callback.php
+[Wed Jul  2 11:01:13 2025] 127.0.0.1:44352 Closing
